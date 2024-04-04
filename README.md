@@ -1,4 +1,4 @@
-### Rais Kazi
+### All about AI
 
 Experienced Senior Architect with 18 years of extensive experience in Cloud, Web, Mobile, Al, ML, Generative AI & Data applications.
 

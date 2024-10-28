@@ -1,5 +1,8 @@
 ### All about Generative AI
 
+![Generative_AI_(2)](https://github.com/user-attachments/assets/aaf77856-f7c1-442f-918a-fb3e3287a893)
+
+
 <!--
 **meetrais/meetrais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

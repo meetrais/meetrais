@@ -1,6 +1,7 @@
 ### All about Generative AI  
 
-<img src="https://github.com/user-attachments/assets/aaf77856-f7c1-442f-918a-fb3e3287a893" height="400" width="1000">
+![attention6](https://github.com/user-attachments/assets/87dddab8-10e6-4f7a-9ed4-db1ff2f3d66e)
+
 
 <!--
 **meetrais/meetrais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
